@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rkalajian
-- 👀 I’m interested in coding, writing, tabletop games, video games, and content creation
-- 🌱 I’m currently learning Node.js and Unity
+- 👀 I’m interested in coding, writing, tabletop games, yoyos, and content creation
+- 🌱 I’m currently working with the Jamstack
 - 💞️ I’m not looking to collaborate at this time
 - 📫 How to reach me: rkalajian [at] gmail.com
 
